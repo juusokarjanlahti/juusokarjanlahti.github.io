@@ -1,0 +1,29 @@
+home: Home
+read_more: Read More
+send: Send
+related_posts: Related Posts
+categories: Categories
+tags: Tags
+toc: Table of Contents
+share: Share
+search_input_placeholder: Search projects...
+search_no_results: No results for
+search_initial_message: Type something to search..
+search_navigate: to navigate
+search_select: to select
+search_close: to close
+
+home: Koti
+read_more: Lue lisää
+send: Lähetä
+related_posts: Liittyviä artikkeleita
+categories: Kategoriat
+tags: Tunnisteet
+toc: Sisällysluettelo
+share: Jaa
+search_input_placeholder: Etsi artikkelia...
+search_no_results: Ei tuloksia
+search_initial_message: Kirjoita jotain hakeaksesi..
+search_navigate: navigoidoi
+search_select: valitse
+search_close: sulje

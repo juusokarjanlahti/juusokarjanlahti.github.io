@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/juusokarjanlahti/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://linkedin.com/in/karjanlahti-juuso/"
+    }
+  ]
+}

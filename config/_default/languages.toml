@@ -1,0 +1,14 @@
+################ English language ##################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+
+################ Finnish language ##################
+
+[fi]
+languageName = "Fi"
+languageCode = "fi-fi"
+contentDir = "content/suomeksi"
+weight = 2

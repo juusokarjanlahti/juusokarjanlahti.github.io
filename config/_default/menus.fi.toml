@@ -1,0 +1,62 @@
+############# Finnish navigation ##############
+
+# main menu
+[[main]]
+name = "Koti"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Tietoa"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Projektit"
+url = "/projects"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Sivut"
+
+[[main]]
+parent = "Sivut"
+name = "Projektit"
+url = "/projects"
+
+[[main]]
+parent = "Sivut"
+name = "Yhteystiedot"
+url = "/contact"
+
+[[main]]
+parent = "Sivut"
+name = "Tekijät"
+url = "/authors"
+
+[[main]]
+parent = "Sivut"
+name = "Kategoriat"
+url = "/categories"
+
+[[main]]
+parent = "Sivut"
+name = "404 Sivu"
+url = "/404"
+
+# footer menu
+[[footer]]
+name = "Tietoa"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Projektit"
+url = "/projects"
+weight = 2
+
+[[footer]]
+name = "Tietosuojakäytäntö"
+url = "/privacy-policy"
+weight = 3
